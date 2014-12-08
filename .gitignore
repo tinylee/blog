@@ -1,0 +1,6 @@
+*.pyc
+Makefile
+fabfile.py
+output
+pelican-themes
+pelican-plugins
