@@ -38,7 +38,7 @@ DEFAULT_PAGINATION = 5
 THEME = 'zurb-F5-basic'
 
 #plugin conf
-PLUGIN_PATH = u"pelican-plugins"
+PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["sitemap"]
 SITEMAP = {
     "format": "xml",
