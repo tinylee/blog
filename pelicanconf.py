@@ -21,14 +21,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('微博', 'http://weibo.com/leexqiang'),
+          ('GitHub', 'http://github.com/leexqiang'),
+	  ('Twitter','http://twitter.com/lxqiang'),)
 
 DEFAULT_PAGINATION = 5
 

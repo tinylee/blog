@@ -1,7 +1,10 @@
-title:如何在Mac上玩国服WOW
-date:2014-12-01
-category:其他
-tag:Mac, WOW
+Title: 如何在Mac上玩国服WOW
+Date: 2014-12-8
+Modified: 
+Category: 其他
+Tags: Mac, WOW
+Slug: mac-how-to-wow
+Authors: tinylee
 
 现在越来越多的人开始使用Mac电脑，当他们想玩WOW的时候发现国服并没有提供相应的Mac客户端，好像完全忽视了Mac电脑用户，如何在Mac平台上玩WOW也就成了这些人关注的问题。
 
@@ -17,6 +20,6 @@ tag:Mac, WOW
 
 等这一切都完成以后，就可以开心的在Mac上玩魔兽世界了，而且你会发现所有的都是中文的。
 
-![mac-wow](./images/mac-wow.jpg "魔兽世界")
+![mac-wow](/images/mac-wow.jpg "魔兽世界")
 
 >网上也有不少方法，下台服客户端，改配置，略显麻烦。
