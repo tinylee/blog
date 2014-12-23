@@ -1,7 +1,7 @@
 *.pyc
 Makefile
 fabfile.py
-output
-cache
+output/
+cache/
 pelican-themes
 pelican-plugins
