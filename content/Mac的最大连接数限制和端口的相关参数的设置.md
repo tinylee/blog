@@ -1,7 +1,10 @@
 Title: Mac的最大连接数限制和端口的相关参数的设置
 Date: 2014-11-18
+Modified: 
 Category: 笔记
-Tag: Mac, 最大连接数, 动态端口
+Tags: Mac, 最大连接数, 动态端口
+Slug: mac-maxfiles-portrange
+Authors: tinylee
 
 前段时间关注了下服务器的并发性能问题，索性也研究了Mac的一些相关参数设置，在这里记录一下。
 
