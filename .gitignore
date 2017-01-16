@@ -1,7 +1,14 @@
+.Python
 *.pyc
+blog.sublime-project
+blog.sublime-workspace
 Makefile
 fabfile.py
+pip-selfcheck.json
+bin/
+include/
+lib/
 output/
 cache/
-pelican-themes
-pelican-plugins
+pelican-themes/
+pelican-plugins/

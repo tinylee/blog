@@ -1,6 +1,5 @@
 Title: 如何在Mac上玩国服WOW
-Date: 2014-12-8
-Modified: 
+Date: 2014-12-8 
 Category: 其他
 Tags: Mac, WOW
 Slug: mac-how-to-wow
