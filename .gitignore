@@ -1,5 +1,6 @@
-*
-!pelicanconf.py
-!.gitignore
-!README.md
-!content/
+/*
+!/pelicanconf.py
+!/.gitignore
+!/README.md
+!/content/
+
